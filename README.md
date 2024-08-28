@@ -11,9 +11,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##### Credential
 
-    Username: kishan
+    Username: ravikumar@gmail.com
 
-    Password: kishan123
+    Password: ravi123
 
 #### HotelsPage
 

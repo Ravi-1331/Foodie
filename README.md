@@ -34,3 +34,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Screenshot (1144)](https://github.com/user-attachments/assets/90404bb4-d287-464c-bd5d-c539e294a4e2)
 
 ![Screenshot (1145)](https://github.com/user-attachments/assets/5e0ca962-6f5a-44aa-b0d0-8bc26af4f32c)
+
+### MOBILE VIEW IMAGE
+![Screenshot (1157)](https://github.com/user-attachments/assets/951f11b0-56c2-4fc6-a4ff-1f5ddb8d9043)
+
+![Screenshot (1158)](https://github.com/user-attachments/assets/48a30738-6d6e-4be3-be9b-721046786262)
+
+![Screenshot (1159)](https://github.com/user-attachments/assets/3ed7afe7-e4f4-46da-a702-1a6846926444)
+
+![Screenshot (1160)](https://github.com/user-attachments/assets/ed97e989-f719-4703-9ecc-0d7b1f5fca8e)
